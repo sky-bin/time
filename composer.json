@@ -1,0 +1,13 @@
+{
+    "name": "phpwb/time",
+    "description": "获取时间",
+    "type": "library",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Phpwb\\Time\\": "src/"
+        }
+    },
+    "authors": [],
+    "minimum-stability": "dev"
+}
